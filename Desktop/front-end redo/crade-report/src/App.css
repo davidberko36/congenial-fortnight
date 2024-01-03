@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+body{
+  color: black;
+  background-image: url(alumni-1.jpg);
+  background-size: auto;
+}
+
+.login-background{
+  background-color: white;
+  width: 300px;
+  margin-left: 550px;
+  height: 200px;
+}
+
+.inner-text{
+  margin-right: 150px;
+  display: inline-block;
+}
+
+.grade-area{
+  background-color: white;
+  width: 500px;
+  height: 600px;
+  margin-left: 500px;
+  margin-top: 50px;
+}
